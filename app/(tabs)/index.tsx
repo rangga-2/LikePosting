@@ -85,7 +85,7 @@ export default function LikePostingApp() {
         <View style={styles.content}>
           <Text style={styles.postTitle}>Dimsum Enak di Malang! 🥟</Text>
           <Text style={styles.postDescription}>
-            Cobain varian resep baru dari kami. Dibuat dengan bahan premium, dijamin nagih dan lumer di mulut! Yuk mampir.
+            Cobain varian resep baru dari kami. Dibuat dengan bahan premium, dijamin bikin nagih! Yuk mampir.
           </Text>
         </View>
 
